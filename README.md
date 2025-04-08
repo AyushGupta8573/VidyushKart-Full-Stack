@@ -1,2 +1,1 @@
-# VidyushKart-Full-Stack
-VidyushKart-Full-Stack using MERN stack
+# VidyushKart Full Stack MERN App 
