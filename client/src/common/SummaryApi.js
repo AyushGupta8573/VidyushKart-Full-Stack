@@ -151,7 +151,7 @@ const SummaryApi = {
     },
     getOrderItems : {
         url : '/api/order/order-list',
-        method : 'get'
+        method : 'post'
     }
 }
 
